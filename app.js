@@ -11,12 +11,16 @@ const { StatusCodes } = require('http-status-codes');
 const { AppError } = require('./utils/appError');
 const { baseResponse } = require('./utils/baseResponse');
 // Custom Middlewares
-const { globalErrorMiddleware } = require('./middlewares/errorMiddleware');
+const { globalErrorMiddleware } = require('./middlewares/error.middleware');
+// Routers
+const { authRouter } = require('./routes/v1/auth.router');
 
 const app = express();
 
 app.enable('trust proxy');
-
+// app.get('/ip', (request, response) => {
+//   response.send(request.ip);
+// });
 // ? Global Middleware
 // ? CORS
 app.use(cors());
@@ -32,6 +36,9 @@ app.use(helmet());
 const limiter = rateLimit({
   limit: 100,
   windowMs: 60 * 60 * 1000,
+  validate: {
+    trustProxy: false,
+  },
   message: 'Too many requests from this IP, please try again in an hour!',
 });
 
@@ -63,7 +70,7 @@ app.get('/', (req, res) => {
 });
 
 // ? Routes
-// app.use('/api/v1/users', userRouter);
+app.use('/api/v1/auth', authRouter);
 
 // ? Not Found Route
 app.all('*', (req, res, next) => {

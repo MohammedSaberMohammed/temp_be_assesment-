@@ -14,4 +14,22 @@
     - [ ] Update
     - [ ] Delete
 
+  - [ ] Auth ( Additional if I have time )
+    - [ ] Login
+    - [ ] Logout
+    - [x] SignUp
+  
+  - [ ] Users ( Additional if I have time ) / Permission based
+    - [ ] Create
+    - [ ] Update
+    - [ ] Delete (soft delete)
+    - [ ] Get me ( Logged in person info )
+
+## Features
+  - [ ] Global error handler
+  - [x] Async / await handler
+  - [x] Versioning structure
+  - [x] Base response schema
+  - [x] EsLint
+
 ### Creation date: _04/08/2025_
