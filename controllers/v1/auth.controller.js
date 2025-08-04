@@ -3,6 +3,7 @@ const { StatusCodes } = require('http-status-codes');
 const { User } = require('../../models/v1/user.model');
 const { catchAsync } = require('../../utils/catchAsync');
 const { baseResponse } = require('../../utils/baseResponse');
+const { AppError } = require('../../utils/appError');
 
 const signToken = (id) =>
   jwt.sign({ id }, process.env.JWT_SECRET, {
@@ -29,6 +30,28 @@ const createSendToken = (user, statusCode, res) => {
 
 const login = catchAsync(async (req, res, next) => {
   const { email, password } = req.body;
+
+  if (!email || !password) {
+    return next(
+      new AppError({
+        errors: ['Please provide email and password'],
+        httpCode: StatusCodes.BAD_REQUEST,
+      }),
+    );
+  }
+
+  const user = await User.findOne({ email }).select('+password');
+
+  if (!user || !(await user.correctPassword(password, user.password))) {
+    return next(
+      new AppError({
+        errors: ['Incorrect email or password'],
+        httpCode: StatusCodes.UNAUTHORIZED,
+      }),
+    );
+  }
+
+  createSendToken(user, StatusCodes.OK, res);
 });
 
 const signup = catchAsync(async (req, res, next) => {

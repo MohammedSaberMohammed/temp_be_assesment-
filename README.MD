@@ -15,12 +15,11 @@
     - [ ] Delete
 
   - [ ] Auth ( Additional if I have time )
-    - [ ] Login
+    - [x] Login
     - [ ] Logout
     - [x] SignUp
   
   - [ ] Users ( Additional if I have time ) / Permission based
-    - [ ] Create
     - [ ] Update
     - [ ] Delete (soft delete)
     - [ ] Get me ( Logged in person info )
