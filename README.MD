@@ -1,13 +1,17 @@
 # Calx: API to practice BE development
 ## Demo: [Link]()
-## Collection: [API]()
+## Collection: [API](https://documenter.getpostman.com/view/2000788/2sB3BBqrsV)
+### Admin credentials: 
+- ceo@calx.com
+- Aa123456
+
 ## Technologies  
   - [x] NodeJS
   - [x] ExpressJS
   - [x] Mongoose
 
 ## APIs
-  - [ ] Invoices
+  - [x] Invoices
     - [x] Get All
     - [x] Get by id
     - [x] Create
@@ -26,7 +30,7 @@
     - [x] Delete User (Admin only)
 
 ## Features
-  - [ ] Global error handler
+  - [x] Global error handler
   - [x] Async / await handler
   - [x] Versioning structure
   - [x] Base response schema
