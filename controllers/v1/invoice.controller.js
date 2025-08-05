@@ -1,5 +1,5 @@
 const { StatusCodes } = require('http-status-codes');
-const { default: axios } = require('axios');
+const axios = require('axios');
 const { Invoice } = require('../../models/v1/invoice.model');
 const factory = require('../../services/handlerFactory');
 const { catchAsync } = require('../../utils/catchAsync');

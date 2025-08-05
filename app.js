@@ -15,13 +15,13 @@ const { globalErrorMiddleware } = require('./middlewares/error.middleware');
 // Routers
 const { authRouter } = require('./routes/v1/auth.router');
 const { invoicesRouter } = require('./routes/v1/invoice.router');
+const { userRouter } = require('./routes/v1/user.router');
+const { authenticateUser } = require('./middlewares/auth.middleware');
 
 const app = express();
 
 app.enable('trust proxy');
-// app.get('/ip', (request, response) => {
-//   response.send(request.ip);
-// });
+
 // ? Global Middleware
 // ? CORS
 app.use(cors());
@@ -72,7 +72,8 @@ app.get('/', (req, res) => {
 
 // ? Routes
 app.use('/api/v1/auth', authRouter);
-app.use('/api/v1/invoices', invoicesRouter);
+app.use('/api/v1/users', authenticateUser, userRouter);
+app.use('/api/v1/invoices', authenticateUser, invoicesRouter);
 
 // ? Not Found Route
 app.all('*', (req, res, next) => {

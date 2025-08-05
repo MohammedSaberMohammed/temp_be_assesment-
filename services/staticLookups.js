@@ -6,5 +6,6 @@ const UserRoles = {
 const UserRolesLookup = [UserRoles.USER, UserRoles.ADMIN];
 
 module.exports = {
+  UserRoles,
   UserRolesLookup,
 };
