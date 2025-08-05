@@ -1,0 +1,642 @@
+[
+  {
+    "purchaseOrderNumber": "PO-00890",
+    "budgetCode": "IT-2023-222021-300010000",
+    "budgetAmount": 165698,
+    "projectName": "ZoneInnovate: The SEZ Advancement Initiative",
+    "invoiceNumber": "MT28000010",
+    "invoiceDate": "30-Jul-23",
+    "invoiceAmount": 97750,
+    "paymentAmount": 97750
+  },
+  {
+    "purchaseOrderNumber": "CO-00140",
+    "budgetCode": "CS-2023-2222027-300010000",
+    "budgetAmount": 2960695,
+    "projectName": "TradeFrontier: Economic Zone Expansion Project",
+    "invoiceNumber": "INV-10262",
+    "invoiceDate": "13-Sep-23",
+    "invoiceAmount": 1177310.2,
+    "paymentAmount": 1177310.2
+  },
+  {
+    "purchaseOrderNumber": "CO-00140",
+    "budgetCode": "CS-2023-2222027-300010000",
+    "budgetAmount": 2960695,
+    "projectName": "TradeFrontier: Economic Zone Expansion Project",
+    "invoiceNumber": "INV-10293",
+    "invoiceDate": "19-Oct-23",
+    "invoiceAmount": 122613,
+    "paymentAmount": 122613
+  },
+  {
+    "purchaseOrderNumber": "SO-00280",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoZone Evolution: A Green Industrial Revival",
+    "invoiceNumber": "INV221",
+    "invoiceDate": "25-Oct-22",
+    "invoiceAmount": 989000,
+    "paymentAmount": 989000
+  },
+  {
+    "purchaseOrderNumber": "SO-00280",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoZone Evolution: A Green Industrial Revival",
+    "invoiceNumber": "INV368",
+    "invoiceDate": "3-May-23",
+    "invoiceAmount": 1236250,
+    "paymentAmount": 1236250
+  },
+  {
+    "purchaseOrderNumber": "SO-00280",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoZone Evolution: A Green Industrial Revival",
+    "invoiceNumber": "INV463",
+    "invoiceDate": "10-Aug-23",
+    "invoiceAmount": 741750,
+    "paymentAmount": 741750
+  },
+  {
+    "purchaseOrderNumber": "SO-00280",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoZone Evolution: A Green Industrial Revival",
+    "invoiceNumber": "INV610",
+    "invoiceDate": "16-Feb-23",
+    "invoiceAmount": 1978000,
+    "paymentAmount": 1978000
+  },
+  {
+    "purchaseOrderNumber": "SO-00284",
+    "budgetCode": "INI-ISD-CY-22-CS",
+    "budgetAmount": 7400000,
+    "projectName": "PortProsper: SEZ Maritime Commerce Hub",
+    "invoiceNumber": "INV220",
+    "invoiceDate": "25-Oct-22",
+    "invoiceAmount": 602600,
+    "paymentAmount": 602600
+  },
+  {
+    "purchaseOrderNumber": "SO-00284",
+    "budgetCode": "INI-ISD-CY-22-CS",
+    "budgetAmount": 7400000,
+    "projectName": "PortProsper: SEZ Maritime Commerce Hub",
+    "invoiceNumber": "INV257",
+    "invoiceDate": "7-Nov-22",
+    "invoiceAmount": 602600,
+    "paymentAmount": 602600
+  },
+  {
+    "purchaseOrderNumber": "SO-00284",
+    "budgetCode": "INI-ISD-CY-22-CS",
+    "budgetAmount": 7400000,
+    "projectName": "PortProsper: SEZ Maritime Commerce Hub",
+    "invoiceNumber": "INV336",
+    "invoiceDate": "28-Mar-23",
+    "invoiceAmount": 1007400,
+    "paymentAmount": 1007400
+  },
+  {
+    "purchaseOrderNumber": "SO-00284",
+    "budgetCode": "INI-ISD-CY-22-CS",
+    "budgetAmount": 7400000,
+    "projectName": "PortProsper: SEZ Maritime Commerce Hub",
+    "invoiceNumber": "INV479",
+    "invoiceDate": "17-Aug-23",
+    "invoiceAmount": 155250,
+    "paymentAmount": 155250
+  },
+  {
+    "purchaseOrderNumber": "SO-00284",
+    "budgetCode": "INI-ISD-CY-22-CS",
+    "budgetAmount": 7400000,
+    "projectName": "PortProsper: SEZ Maritime Commerce Hub",
+    "invoiceNumber": "INV630",
+    "invoiceDate": "30-Oct-23",
+    "invoiceAmount": 324300,
+    "paymentAmount": 324300
+  },
+  {
+    "purchaseOrderNumber": "SO-00284",
+    "budgetCode": "INI-ISD-CY-22-CS",
+    "budgetAmount": 7400000,
+    "projectName": "PortProsper: SEZ Maritime Commerce Hub",
+    "invoiceNumber": "INV705",
+    "invoiceDate": "20-Nov-23",
+    "invoiceAmount": 155250,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "SO-00398",
+    "budgetCode": "IT-2023A-2252",
+    "budgetAmount": 10000000,
+    "projectName": "PolicyPioneer: SEZ Regulatory Reform Taskforce",
+    "invoiceNumber": "INV460",
+    "invoiceDate": "10-Aug-23",
+    "invoiceAmount": 1644500,
+    "paymentAmount": 1644500
+  },
+  {
+    "purchaseOrderNumber": "SO-00398",
+    "budgetCode": "IT-2023A-2252",
+    "budgetAmount": 10000000,
+    "projectName": "PolicyPioneer: SEZ Regulatory Reform Taskforce",
+    "invoiceNumber": "INV594",
+    "invoiceDate": "10-Oct-23",
+    "invoiceAmount": 328900,
+    "paymentAmount": 328900
+  },
+  {
+    "purchaseOrderNumber": "SO-00398",
+    "budgetCode": "IT-2023A-2252",
+    "budgetAmount": 10000000,
+    "projectName": "PolicyPioneer: SEZ Regulatory Reform Taskforce",
+    "invoiceNumber": "INV645",
+    "invoiceDate": "2-Nov-23",
+    "invoiceAmount": 657800,
+    "paymentAmount": 657800
+  },
+  {
+    "purchaseOrderNumber": "SO-00398",
+    "budgetCode": "IT-2023A-2252",
+    "budgetAmount": 10000000,
+    "projectName": "PolicyPioneer: SEZ Regulatory Reform Taskforce",
+    "invoiceNumber": "INV757",
+    "invoiceDate": "24-Jan-24",
+    "invoiceAmount": 657800,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2021/2752",
+    "invoiceDate": "13-Dec-21",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2022/ 3261",
+    "invoiceDate": "15-Dec-22",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2022/2863",
+    "invoiceDate": "21-Mar-22",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2022/2970",
+    "invoiceDate": "19-Jun-22",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2022/3098",
+    "invoiceDate": "21-Sep-22",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2023/3409",
+    "invoiceDate": "22-Mar-23",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2023/3535",
+    "invoiceDate": "14-Jun-23",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA-/SAJ/2023/3728-",
+    "invoiceDate": "18-Sep-23",
+    "invoiceAmount": 5000.2,
+    "paymentAmount": 5000.2
+  },
+  {
+    "purchaseOrderNumber": "PO-00686",
+    "budgetCode": "INI-ITD-CY-21-SW",
+    "budgetAmount": 760000,
+    "projectName": "FutureHub: The Next-Gen SEZ Development Program",
+    "invoiceNumber": "KSA/SAJ/2021/2617",
+    "invoiceDate": "18-Aug-21",
+    "invoiceAmount": 64400,
+    "paymentAmount": 64400
+  },
+  {
+    "purchaseOrderNumber": "SO-00318",
+    "budgetCode": "MEGA-7.0.3",
+    "budgetAmount": 25411909,
+    "projectName": "TradeWind: International Commerce Accelerator",
+    "invoiceNumber": "5000000252",
+    "invoiceDate": "19-Jun-23",
+    "invoiceAmount": 3456845.93,
+    "paymentAmount": 3456845.93
+  },
+  {
+    "purchaseOrderNumber": "SO-00318",
+    "budgetCode": "MEGA-7.0.3",
+    "budgetAmount": 25411909,
+    "projectName": "TradeWind: International Commerce Accelerator",
+    "invoiceNumber": "5000000358",
+    "invoiceDate": "24-Aug-23",
+    "invoiceAmount": 1409135.97,
+    "paymentAmount": 1409135.97
+  },
+  {
+    "purchaseOrderNumber": "SO-00291",
+    "budgetCode": "INI-ISD-CY-22-MS",
+    "budgetAmount": 4336300,
+    "projectName": "ZoneTech: The SEZ Innovation Network",
+    "invoiceNumber": "INV317",
+    "invoiceDate": "16-Feb-23",
+    "invoiceAmount": 514844.65,
+    "paymentAmount": 514844.65
+  },
+  {
+    "purchaseOrderNumber": "SO-00291",
+    "budgetCode": "INI-ISD-CY-22-MS",
+    "budgetAmount": 4336300,
+    "projectName": "ZoneTech: The SEZ Innovation Network",
+    "invoiceNumber": "INV328",
+    "invoiceDate": "13-Mar-23",
+    "invoiceAmount": 514844.65,
+    "paymentAmount": 514844.65
+  },
+  {
+    "purchaseOrderNumber": "SO-00291",
+    "budgetCode": "INI-ISD-CY-22-MS",
+    "budgetAmount": 4336300,
+    "projectName": "ZoneTech: The SEZ Innovation Network",
+    "invoiceNumber": "INV367",
+    "invoiceDate": "12-Apr-23",
+    "invoiceAmount": 257422.33,
+    "paymentAmount": 257422.33
+  },
+  {
+    "purchaseOrderNumber": "SO-00291",
+    "budgetCode": "INI-ISD-CY-22-MS",
+    "budgetAmount": 4336300,
+    "projectName": "ZoneTech: The SEZ Innovation Network",
+    "invoiceNumber": "INV704",
+    "invoiceDate": "20-Nov-23",
+    "invoiceAmount": 257422.33,
+    "paymentAmount": 257422.33
+  },
+  {
+    "purchaseOrderNumber": "SO-00381",
+    "budgetCode": "CS-2023-2222027-300010000",
+    "budgetAmount": 2960695,
+    "projectName": "InfraAdvance: Infrastructure Enhancement in SEZs",
+    "invoiceNumber": "KSA-/SAJ/2023/3515",
+    "invoiceDate": "30-May-23",
+    "invoiceAmount": 47961.9,
+    "paymentAmount": 47961.9
+  },
+  {
+    "purchaseOrderNumber": "SO-00381",
+    "budgetCode": "CS-2023-2222027-300010000",
+    "budgetAmount": 2960695,
+    "projectName": "InfraAdvance: Infrastructure Enhancement in SEZs",
+    "invoiceNumber": "KSA-/SAJ/2023/3592",
+    "invoiceDate": "19-Jul-23",
+    "invoiceAmount": 187622.5,
+    "paymentAmount": 187622.5
+  },
+  {
+    "purchaseOrderNumber": "SO-00381",
+    "budgetCode": "CS-2023-2222027-300010000",
+    "budgetAmount": 2960695,
+    "projectName": "InfraAdvance: Infrastructure Enhancement in SEZs",
+    "invoiceNumber": "KSA-/SAJ/2023/3804",
+    "invoiceDate": "25-Oct-23",
+    "invoiceAmount": 44180.7,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "SO-00283",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoTrade: Sustainable Economic Zones Initiative",
+    "invoiceNumber": "INV219",
+    "invoiceDate": "25-Oct-22",
+    "invoiceAmount": 998200,
+    "paymentAmount": 998200
+  },
+  {
+    "purchaseOrderNumber": "SO-00283",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoTrade: Sustainable Economic Zones Initiative",
+    "invoiceNumber": "INV258",
+    "invoiceDate": "7-Nov-22",
+    "invoiceAmount": 998200,
+    "paymentAmount": 998200
+  },
+  {
+    "purchaseOrderNumber": "SO-00283",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoTrade: Sustainable Economic Zones Initiative",
+    "invoiceNumber": "INV337",
+    "invoiceDate": "26-Mar-23",
+    "invoiceAmount": 665850,
+    "paymentAmount": 665850
+  },
+  {
+    "purchaseOrderNumber": "SO-00283",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoTrade: Sustainable Economic Zones Initiative",
+    "invoiceNumber": "INV502",
+    "invoiceDate": "4-Sep-23",
+    "invoiceAmount": 1759500,
+    "paymentAmount": 1759500
+  },
+  {
+    "purchaseOrderNumber": "SO-00283",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "EcoTrade: Sustainable Economic Zones Initiative",
+    "invoiceNumber": "INV718",
+    "invoiceDate": "23-Nov-23",
+    "invoiceAmount": 569250,
+    "paymentAmount": 569250
+  },
+  {
+    "purchaseOrderNumber": "SO-00366",
+    "budgetCode": "MEGA-8-475008000715",
+    "budgetAmount": 22843121,
+    "projectName": "GatewayGrowth: The SEZ Expansion Strategy",
+    "invoiceNumber": "5015681",
+    "invoiceDate": "6-Jun-23",
+    "invoiceAmount": 2647534.63,
+    "paymentAmount": 2647534.63
+  },
+  {
+    "purchaseOrderNumber": "SO-00366",
+    "budgetCode": "MEGA-8-475008000715",
+    "budgetAmount": 22843121,
+    "projectName": "GatewayGrowth: The SEZ Expansion Strategy",
+    "invoiceNumber": "5025518",
+    "invoiceDate": "28-Aug-23",
+    "invoiceAmount": 471041.15,
+    "paymentAmount": 471041.15
+  },
+  {
+    "purchaseOrderNumber": "SO-00367",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "ProsperPoint: Economic Zone Development Project",
+    "invoiceNumber": "920000004",
+    "invoiceDate": "30-Apr-23",
+    "invoiceAmount": 986343.15,
+    "paymentAmount": 986343.15
+  },
+  {
+    "purchaseOrderNumber": "SO-00367",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "ProsperPoint: Economic Zone Development Project",
+    "invoiceNumber": "920000009",
+    "invoiceDate": "31-Jul-23",
+    "invoiceAmount": 422718.5,
+    "paymentAmount": 422718.5
+  },
+  {
+    "purchaseOrderNumber": "SO-00278",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "HorizonZone: Future-Ready SEZ Planning",
+    "invoiceNumber": "43353221",
+    "invoiceDate": "3-Sep-23",
+    "invoiceAmount": 744406.5,
+    "paymentAmount": 744406.5
+  },
+  {
+    "purchaseOrderNumber": "SO-00278",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "HorizonZone: Future-Ready SEZ Planning",
+    "invoiceNumber": "43354465",
+    "invoiceDate": "13-Nov-23",
+    "invoiceAmount": 744406.5,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "SO-00278",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "HorizonZone: Future-Ready SEZ Planning",
+    "invoiceNumber": "KSA42352882",
+    "invoiceDate": "13-Nov-22",
+    "invoiceAmount": 302726,
+    "paymentAmount": 302726
+  },
+  {
+    "purchaseOrderNumber": "SO-00278",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "HorizonZone: Future-Ready SEZ Planning",
+    "invoiceNumber": "KSA42353081",
+    "invoiceDate": "24-Nov-22",
+    "invoiceAmount": 945530,
+    "paymentAmount": 945530
+  },
+  {
+    "purchaseOrderNumber": "SO-00278",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "HorizonZone: Future-Ready SEZ Planning",
+    "invoiceNumber": "KSA43350878",
+    "invoiceDate": "12-Mar-23",
+    "invoiceAmount": 649635,
+    "paymentAmount": 649635
+  },
+  {
+    "purchaseOrderNumber": "SO-00278",
+    "budgetCode": "INI-ISD-CY-22-DT",
+    "budgetAmount": 17500000,
+    "projectName": "HorizonZone: Future-Ready SEZ Planning",
+    "invoiceNumber": "KSA43351912",
+    "invoiceDate": "28-May-23",
+    "invoiceAmount": 574770,
+    "paymentAmount": 574770
+  },
+  {
+    "purchaseOrderNumber": "SO-00304",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "InvestInZone: SEZ Investment Attraction Program",
+    "invoiceNumber": "43353222",
+    "invoiceDate": "3-Sep-23",
+    "invoiceAmount": 202998,
+    "paymentAmount": 202998
+  },
+  {
+    "purchaseOrderNumber": "SO-00304",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "InvestInZone: SEZ Investment Attraction Program",
+    "invoiceNumber": "43353502",
+    "invoiceDate": "20-Sep-23",
+    "invoiceAmount": 744406.5,
+    "paymentAmount": 744406.5
+  },
+  {
+    "purchaseOrderNumber": "SO-00304",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "InvestInZone: SEZ Investment Attraction Program",
+    "invoiceNumber": "44350448",
+    "invoiceDate": "30-Jan-24",
+    "invoiceAmount": 744406.5,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "SO-00304",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "InvestInZone: SEZ Investment Attraction Program",
+    "invoiceNumber": "KSA43350879",
+    "invoiceDate": "12-Mar-23",
+    "invoiceAmount": 1440467,
+    "paymentAmount": 1440467
+  },
+  {
+    "purchaseOrderNumber": "SO-00304",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "InvestInZone: SEZ Investment Attraction Program",
+    "invoiceNumber": "KSA43352102",
+    "invoiceDate": "8-Jun-23",
+    "invoiceAmount": 856612,
+    "paymentAmount": 856612
+  },
+  {
+    "purchaseOrderNumber": "SO-00361",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "SmartZone Solutions: Tech-Driven SEZ Upgrades",
+    "invoiceNumber": "INV450",
+    "invoiceDate": "18-Jul-23",
+    "invoiceAmount": 1070355.14,
+    "paymentAmount": 1070355.14
+  },
+  {
+    "purchaseOrderNumber": "SO-00361",
+    "budgetCode": "MEGA-8-375001000715",
+    "budgetAmount": 30021727,
+    "projectName": "SmartZone Solutions: Tech-Driven SEZ Upgrades",
+    "invoiceNumber": "INV565",
+    "invoiceDate": "9-Oct-23",
+    "invoiceAmount": 356785.05,
+    "paymentAmount": 356785.05
+  },
+  {
+    "purchaseOrderNumber": "SO-00444",
+    "budgetCode": "MEGA-4.0.14",
+    "budgetAmount": 13330688,
+    "projectName": "TradeSphere: Global Trade Facilitation Project",
+    "invoiceNumber": "INV649",
+    "invoiceDate": "2-Nov-23",
+    "invoiceAmount": 412501.55,
+    "paymentAmount": 412501.55
+  },
+  {
+    "purchaseOrderNumber": "SO-00444",
+    "budgetCode": "MEGA-4.0.14",
+    "budgetAmount": 13330688,
+    "projectName": "TradeSphere: Global Trade Facilitation Project",
+    "invoiceNumber": "INV760",
+    "invoiceDate": "29-Jan-24",
+    "invoiceAmount": 825003.1,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "SO-00458",
+    "budgetCode": "MEGA-4.0.14",
+    "budgetAmount": 13330688,
+    "projectName": "ZoneRenew: SEZ Modernization Initiative",
+    "invoiceNumber": "INV644",
+    "invoiceDate": "2-Nov-23",
+    "invoiceAmount": 1456072.55,
+    "paymentAmount": 1456072.55
+  },
+  {
+    "purchaseOrderNumber": "SO-00458",
+    "budgetCode": "MEGA-4.0.14",
+    "budgetAmount": 13330688,
+    "projectName": "ZoneRenew: SEZ Modernization Initiative",
+    "invoiceNumber": "INV762",
+    "invoiceDate": "29-Jan-24",
+    "invoiceAmount": 398072.5,
+    "paymentAmount": 0
+  },
+  {
+    "purchaseOrderNumber": "SO-00374",
+    "budgetCode": "MEGA-4.0.3",
+    "budgetAmount": 7212141,
+    "projectName": "CapitalConnect: SEZ Finance and Investment Hub",
+    "invoiceNumber": "INV451",
+    "invoiceDate": "18-Jul-23",
+    "invoiceAmount": 1048503.35,
+    "paymentAmount": 1048503.35
+  },
+  {
+    "purchaseOrderNumber": "SO-00374",
+    "budgetCode": "MEGA-4.0.3",
+    "budgetAmount": 7212141,
+    "projectName": "CapitalConnect: SEZ Finance and Investment Hub",
+    "invoiceNumber": "INV620",
+    "invoiceDate": "25-Oct-23",
+    "invoiceAmount": 88747.66,
+    "paymentAmount": 88747.66
+  },
+  {
+    "purchaseOrderNumber": "CO-00115",
+    "budgetCode": "MEGA-4.0.1",
+    "budgetAmount": 2875000,
+    "projectName": "GreenZone: Eco-Friendly Economic Zone Project",
+    "invoiceNumber": "5034878",
+    "invoiceDate": "5-Oct-23",
+    "invoiceAmount": 2875000,
+    "paymentAmount": 2875000
+  }
+]

@@ -14,6 +14,7 @@ const { baseResponse } = require('./utils/baseResponse');
 const { globalErrorMiddleware } = require('./middlewares/error.middleware');
 // Routers
 const { authRouter } = require('./routes/v1/auth.router');
+const { invoicesRouter } = require('./routes/v1/invoice.router');
 
 const app = express();
 
@@ -71,6 +72,7 @@ app.get('/', (req, res) => {
 
 // ? Routes
 app.use('/api/v1/auth', authRouter);
+app.use('/api/v1/invoices', invoicesRouter);
 
 // ? Not Found Route
 app.all('*', (req, res, next) => {
