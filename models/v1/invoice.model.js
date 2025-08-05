@@ -71,6 +71,12 @@ const invoiceSchema = new mongoose.Schema(
       ref: 'User',
       required: [true, 'user field is required'],
     },
+    currency: {
+      type: String,
+      default: 'SAR',
+      required: [true, 'currency field is required'],
+      // enum: [SupportedCurrencies],
+    },
     paid: {
       type: Boolean,
       default: false,

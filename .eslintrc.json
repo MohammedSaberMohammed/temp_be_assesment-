@@ -14,7 +14,8 @@
     "no-restricted-globals": "warn",
     "no-underscore-dangle": "off",
     "class-methods-use-this": "off",
-    "prefer-destructuring": ["error", { "object": true, "array": false }],
+    "prefer-destructuring": "off",
+    "node/no-unsupported-features/es-syntax": "off",
     "no-unused-vars": ["error", { "argsIgnorePattern": "req|res|next|val" }]
   }
 }

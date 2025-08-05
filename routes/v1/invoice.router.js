@@ -5,6 +5,7 @@ const {
   updateInvoice,
   deleteInvoice,
   createInvoice,
+  convertCurrency,
 } = require('../../controllers/v1/invoice.controller');
 
 const invoicesRouter = express.Router();
@@ -15,5 +16,7 @@ invoicesRouter
   .get(getInvoice)
   .patch(updateInvoice)
   .delete(deleteInvoice);
+
+invoicesRouter.route('/convert/currency/:currency').get(convertCurrency);
 
 module.exports = { invoicesRouter };
