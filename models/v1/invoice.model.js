@@ -66,6 +66,11 @@ const invoiceSchema = new mongoose.Schema(
       },
       default: 0,
     },
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'User',
+      required: [true, 'user field is required'],
+    },
     paid: {
       type: Boolean,
       default: false,

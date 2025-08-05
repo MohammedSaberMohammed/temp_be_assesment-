@@ -20,10 +20,24 @@ const handleDuplicateFieldDB = (err) => {
     httpCode: StatusCodes.BAD_REQUEST,
   });
 };
+
+const handleCastErrorDB = (err) => {
+  const message = `Invalid ${err.path}: ${err.value}.`;
+
+  return new AppError({
+    errors: [message],
+    httpCode: StatusCodes.BAD_REQUEST,
+  });
+};
+
 const globalErrorMiddleware = (err, req, res, next) => {
   console.log('err', err);
 
   let error = { ...err };
+
+  if (err.name === 'CastError') {
+    error = handleCastErrorDB(err);
+  }
 
   // ? Validation Error
   if (err.name === 'ValidationError') {
